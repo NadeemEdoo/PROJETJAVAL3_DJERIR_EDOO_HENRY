@@ -11,6 +11,6 @@ package PgeAccueil;
  */
 public class Panneau {
     
-    /*BAODHFKJGSKDFGSDJFGLDGFJKHDSGFJLSHD*/
+    /*Test depuis pc Wafa*/
     
 }
