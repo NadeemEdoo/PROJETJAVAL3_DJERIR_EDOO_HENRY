@@ -10,6 +10,6 @@ package PgeAccueil;
  * @author NadeemShia
  */
 public class PageAccueil {
-    /*BLABLABLA*/
+    /*bloubloublou je mappel wafa*/
     
 }
